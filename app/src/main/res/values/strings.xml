@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TIC-TAC-TOE</string>
+    <string name="heading">Play this game with your friends</string>
+    <string name="status">X\'s turn to play</string>
+    <string name="grid"></string>
+    <string name="ant_status"></string>
+</resources>
